@@ -1,0 +1,50 @@
+"service" : [
+    {
+     "id": 1,
+     "name": "Expert Doctors",
+     "description": "Doctors are medical professionals. They are qualified and trained health care professionals who diagnose and treat various health conditions in human beings. There are various branches of medicine. Doctors specialize in studying and treating diseases of the different parts of the body. For example, cardiologists, ophthalmologists, dentists, neurologists and dermatologists are specialists in treating diseases of specific parts of the human body. Likewise, paediatricians are specialists in treating children, while geriatricians treat the elderly. There are different streams of medicine and healing systems such as allopathy, homoeopathy, naturopathy and Ayurveda. There are also veterinarians who treat sick and diseased animals.",
+     "ratting": 4,
+     "price": 2000,
+     "img": "https://i.ibb.co/ncMDzzg/doctor1.jpg"
+    },
+    {
+     "id": 2,
+     "name": "Pathology",
+     "description": "Pathology is the study of disease. It is the bridge between science and medicine. It underpins every aspect of patient care, from diagnostic testing and treatment advice to using cutting-edge genetic technologies and preventing disease. Doctors and scientists working in pathology are experts in illness and disease.",
+     "ratting": 5,
+     "price": 2000,
+     "img": "https://i.ibb.co/hgJxZGb/doctor2.png"
+    },
+    {
+     "id": 3,
+     "name": "Dental Care",
+     "description": " Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery.",
+     "ratting": 4,
+     "price": 1500,
+     "img": "https://i.ibb.co/cYqF1vZ/dental.png"
+    },
+    {
+     "id": 4,
+     "name": "Cardiology",
+     "description": "Cardiology is the study and treatment of disorders of the heart and the blood vessels. A person with heart disease or cardiovascular disease may be referred to a cardiologist. Cardiology is a branch of internal medicine. ... A cardiologist specializes in diagnosing and treating diseases of the cardiovascular system",
+     "ratting": 4,
+     "price": 20000,
+     "img": "https://i.ibb.co/VSD6xdM/cardiology.jpg"
+    },
+    {
+     "id": 5,
+     "name": "Neurology",
+     "description": "Neurologists are specialists who treat diseases of the brain and spinal cord, peripheral nerves and muscles. Neurological conditions include epilepsy, stroke, multiple sclerosis (MS) and Parkinson's disease",
+     "ratting": 5,
+     "price": 3000,
+     "img": "https://i.ibb.co/tJpHpC8/Neurology.png"
+    },
+    {
+     "id": 6,
+     "name": "Child Specialist",
+     "description": "Paediatricians are doctors who manage medical conditions affecting infants, children and young people. ... general paediatrics - a hospital role covering children from birth to the age of 16. Most paediatricians have this generalist role. neonatology - this role specialises in looking after newly born babies.",
+     "ratting": 4,
+     "price": 2000,
+     "img": "https://i.ibb.co/R69yQBN/Child.png"
+    },
+   ]

@@ -1,0 +1,10 @@
+.notFound{
+    height: 300px;
+    width: 100%;
+    background-image: url(https://i.ibb.co/ypgqn9R/404.jpg);
+    background-repeat: no-repeat;
+     background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import './Services.css'
+import Service from '../Service/Service';
+
 
 
 
@@ -25,25 +26,12 @@ const Services = () => {
              
 
            </div>
-          {services.map((service) => (
-              <div className="col-md-4 col-sm-12">
-              <div className="cart">
-                <div className="cart-details">
-                  <img className="w-75 h-75" src={service.img} alt="" />
-                </div>
-                <div className="text-area fw-bolder text-white">
-                 
-                    <p>{service.name}</p>
-                    
-                    <button className="btn btn-success">Details</button>
-                 
-                 </div>
-              </div>
-              </div> 
-                          
-           
-          ))};
-
+           {
+                    services.map(service => <Service
+                        key={service.id}
+                        service={service}
+                    ></Service>)
+                }
 
                </div>
             </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, Carousel } from 'react-bootstrap';
+import './Banner.css'
 
 
 
@@ -7,7 +8,7 @@ import { Card, Carousel } from 'react-bootstrap';
 
 const Banner = () => {
     return (
-        <>
+        <div className="banner">
             <Carousel>
                 <Carousel.Item >
                     <img
@@ -173,7 +174,7 @@ const Banner = () => {
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
-        </>
+        </div>
     );
 };
 
